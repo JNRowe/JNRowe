@@ -11,3 +11,5 @@ Feel free to get in touch.
 
 - [Email](mailto:jnrowe@gmail.com)
 - [Office hours](http://jnrowe.github.io/office_hours.html)
+
+[![JNRowe’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JNRowe&show_icons=true&theme=gruvbox)](https://github.com/JNRowe)
