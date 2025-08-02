@@ -1,4 +1,4 @@
-# James Rowe (he/him)
+# James Rowe
 
 Hi, I’m James.  I’m a Senior Developer with EADS, specialising in navigation
 systems(both <abbr title="Global Navigation Satellite System">GNNS</abbr> and
